@@ -1,0 +1,9 @@
+[CONNECTION]
+ServerName = 10.242.130.5
+PortNumber = 9831
+dbProfileKey = onnelek1
+SSL = 0
+dbDirect = -1
+LocaldbDirect = -1
+RpcHeartBeatMinutes=1
+SSO = 2
